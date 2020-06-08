@@ -7,3 +7,9 @@ for i in names:
 #i can be same as name/ ie. can be replaced
 for name in names:
     print("Hi {}, welcome to python programming!".format(name))
+
+
+
+
+for number in range(0,10):
+    print("number {}".format(number))
